@@ -1,0 +1,43 @@
+.sar{
+    color: turquoise;
+}
+
+
+
+h1{
+    text-align: center;
+    width: 300px;
+    border: 15px solid black;
+    padding: 50px;
+    margin-left: 520px;
+    
+}
+
+.Ar{
+    height: 100px;
+    width: 100px;
+    border-radius: 60px;
+}
+ 
+.KV{
+ 
+   background-image: url("./Assets/cat.jfif");
+   background-repeat: no-repeat;
+    /* height: 100%;  */
+    background-size: COVER;
+
+ 
+} 
+
+
+.kk{
+    display: flex;
+    justify-content: center;
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+    margin-left: 500px;
+    margin-top: 200px;
+
+}
+
